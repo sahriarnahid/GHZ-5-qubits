@@ -225,5 +225,3 @@ Contributions are welcome! Areas for improvement:
 5. Open a Pull Request
 
 ---
-
-_This project demonstrates fundamental quantum computing concepts and is ideal for students, researchers, and quantum computing enthusiasts._
